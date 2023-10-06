@@ -818,7 +818,6 @@ CCTV5-高清,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 冰冰经典电影,http://epg.112114.xyz/douyu/74374
 奶虫恐怖电影,http://epg.112114.xyz/douyu/263824
 奶瓶科幻片,http://epg.112114.xyz/douyu/6655271
-避风港影院,http://epg.112114.xyz/douyu/9826611
 林林影院,http://epg.112114.xyz/douyu/9652323
 漫威电影,http://epg.112114.xyz/douyu/4282654
 恐怖经典,http://epg.112114.xyz/douyu/1165374
@@ -834,7 +833,6 @@ CCTV5-高清,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 连续剧1,http://epg.112114.xyz/douyu/4549169
 连续剧2,http://epg.112114.xyz/douyu/7623292
 连续剧3,http://epg.112114.xyz/douyu/5689514
-连续剧4,http://epg.112114.xyz/douyu/7476264
 连续剧5,http://epg.112114.xyz/douyu/4396972
 游戏解说,http://epg.112114.xyz/douyu/805235
 斗鱼小品,http://epg.112114.xyz/douyu/3980787
