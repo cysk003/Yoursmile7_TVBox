@@ -55,7 +55,6 @@ CCTV10,http://hms424nc1972679599.live.aikan.miguvideo.com/wh7f454c46tw2383135402
 CCTV11,https://live.goodiptv.club/api/bestv.php?id=cctv11hd8m/8000000
 CCTV11,http://59.47.226.94:8880/sql/2602/hls.m3u8
 CCTV12,http://hms204nc1972679577.live.aikan.miguvideo.com/wh7f454c46tw1174495643_-1245391177/migu/kailu/20200324/cctv12hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=59.49.185.88&timestamp=20230311020243&ContentId=265667607&timezone=UTC&mtv_session=7581c6271c0379b8ca8b268ff7804765&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=3906a8574a42ff13aba3e255be4cd8e3
-CCTV13,http://hms184nc1972679575.live.aikan.miguvideo.com/wh7f454c46tw946205927_-649996709/envivo_x/2018/SD/cctv13/2000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208132705&ContentId=265667474&timezone=UTC&mtv_session=36bf599c0c4bc785fd46aaf0ba40ffe7&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=91a8a1c4652526079a5b0e294d5bc18d
 CCTV14,http://hms344nc1972679590.live.aikan.miguvideo.com/wh7f454c46tw1297666621_-728046298/wd_r2/ocn/cctv14hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=59.49.185.88&timestamp=20230311020446&ContentId=265667325&timezone=UTC&mtv_session=ad6cfd6b6dabe31801ca54a4c87f1bac&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=2757ab80a8dee98edfcfd1ee767a17b8
 CCTV15,http://hms504nc1972679606.live.aikan.miguvideo.com/wh7f454c46tw1387986390_1468621622/migu/kailu/20200324/cctv15hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=59.49.185.88&timestamp=20230311020617&ContentId=265667535&timezone=UTC&mtv_session=e1254803553b7cace3a119612bf266d8&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=7ba98a3a39d853487109bebe5ed31c43
 CCTV16,https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
@@ -190,7 +189,6 @@ CCTV6,http://111.59.63.32:9901/tsfile/live/1013_1.m3u8
 CCTV6,http://221.213.43.82:8888/newlive/live/hls/8/live.m3u8
 CCTV6,http://1.195.111.251:11190/tsfile/live/0006_1.m3u8
 CCTV7,http://111.59.63.32:9901/tsfile/live/1014_1.m3u8
-CCTV7,http://119.164.216.162:9901/tsfile/live/1000_1.m3u8
 CCTV7,http://221.213.43.82:8888/newlive/live/hls/9/live.m3u8
 CCTV8,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8?
 CCTV8,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8?
@@ -755,7 +753,6 @@ CGTN France,http://livefr.cgtn.com/1000f/prog_index.m3u8
 
 体育频道,#genre#
 南国都市4K,https://justsometime.gztv.com/sec/shenghuos.m3u8
-山东体育,http://119.164.216.162:9901/tsfile/live/1002_1.m3u8
 CCTV5-高清,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 CCTV5-高清,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 五星体育,http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
@@ -845,7 +842,6 @@ CCTV5-高清,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 斗鱼电影5,http://epg.112114.xyz/douyu/7116591
 斗鱼电影6,http://epg.112114.xyz/douyu/6776615
 斗鱼电影7,http://epg.112114.xyz/douyu/7655471
-斗鱼电影8,http://epg.112114.xyz/douyu/4290711
 斗鱼电影9,http://epg.112114.xyz/douyu/6566671
 斗鱼电影10,http://epg.112114.xyz/douyu/8475821
 斗鱼电影11,http://epg.112114.xyz/douyu/338759
@@ -978,7 +974,6 @@ CCTV5-高清,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 金坛新闻频道,http://jintan-tv-ori-hls.jstv.com/jintan-tv-ori/jintan_xw.m3u8?zjiangsd
 海安新闻综合,http://haian-tv-hls.cm.jstv.com/haian-tv/haaxwzh.m3u8?zjiangsd
 睢宁综合频道,http://suining-tv-hls.cm.jstv.com/suining-tv/suiningzh.m3u8?zjiangsd
-睢宁生活教育,http://suining-tv-hls.cm.jstv.com/suining-tv/suiningsh.m3u8?zjiangsd
 沭阳综合频道,http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8?zjiangsd
 东海新闻频道,http://donghai-tv-hls.cm.jstv.com/donghai-tv/donghaixinwensp.m3u8?zjiangsd
 贾汪新闻频道,http://jiawang-tv-hls.cm.jstv.com/jiawang-tv/jwxw.m3u8?zjiangsd
@@ -1091,8 +1086,6 @@ CCTV5-高清,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 麻城综合,http://119.36.30.199:8888/mctv1.m3u8
 江夏新闻综合,http://59.175.226.142:280/gb28181/xwzh.m3u8
 郧阳新闻综合,http://58.19.198.159:2021/hls1.m3u8
-黄冈新闻,http://huanggang-live21.cjyun.org/10120/s10120-xwzh.m3u8?auth_key=1704038399-0-0-467fc23b176dde216d3e41c725fd1b6b
-黄冈生活,http://huanggang-live21.cjyun.org/10120/s10120-xwgg.m3u8?auth_key=1704038399-0-0-6fa37070415efc6d085d8a432247eb4a
 红安综合,http://hongan-live21.cjyun.org/10063/s10063-HAZH.m3u8?auth_key=1704038399-0-0-636fa13407289721c04902585b40acec
 黄石新闻综合,https://huangshifb-live21.cjyun.org/10200/s10200-huangshitv01.m3u8?auth_key=1704038399-0-0-16aa429960c0d43a0f80e83bbf91698a
 咸宁综合,https://xianning-live21.cjyun.org/10140/s10140-XNTV-1.m3u8?auth_key=1704038399-0-0-3a430a04b001154f7360d7a213a73319
