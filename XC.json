@@ -73,13 +73,13 @@
 {"key":"高中","name":"🅱️高中","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/高中课堂.json"}
 ],
 "parses": [{
-		"name": "Json聚合",
-		"type": 3,
-		"url": "Demo"
-	}, {
 		"name": "Web聚合",
 		"type": 3,
 		"url": "Web"
+	}, {
+		"name": "Json聚合",
+		"type": 3,
+		"url": "Demo"
 	}, {
 		"name": "哥哥们",
 		"type": 1,
